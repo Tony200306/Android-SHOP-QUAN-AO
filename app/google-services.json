@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "113452251342",
+    "firebase_url": "https://cuong-fcb8f-default-rtdb.firebaseio.com",
+    "project_id": "cuong-fcb8f",
+    "storage_bucket": "cuong-fcb8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113452251342:android:9f0343790ea1f11890f89f",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpZGSYGM7QOo2CKhfVT5IBSJ-bDPbXseA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
